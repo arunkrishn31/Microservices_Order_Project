@@ -20,6 +20,7 @@
         <module>Order-Service</module>
         <module>Inventory-Service</module>
         <module>Discovery-Server</module>
+        <module>Spring_Cloud_Gateway</module>
     </modules>
 
     <properties>
