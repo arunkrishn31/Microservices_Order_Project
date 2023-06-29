@@ -4,5 +4,7 @@ E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\Orde
 E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Model\OrderLineItems.java
 E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Service\OrderService.java
 E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Controller\OrderController.java
+E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Config\WebClientConfig.java
+E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Dto\InventoryResponse.java
 E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Dto\OrderLineItemsDto.java
 E:\Practice Workspace\Project\Order-Service\src\main\java\com\Microservices\OrderService\Dto\OrderRequest.java
